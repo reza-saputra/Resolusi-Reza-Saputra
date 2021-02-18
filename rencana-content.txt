@@ -4,6 +4,8 @@ Rencana Conten Reza
 - Tutorial belajar Codeigniter.
 - Vlog.
 - Javascript
+  * Vue
+  * React
 - CSS
 - HTML
 - Bootstrap
