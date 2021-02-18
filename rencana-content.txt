@@ -1,5 +1,12 @@
 Rencana Conten Reza
-- Tutorial belajar Codeigniter.
 - Unboxin.
 - Fungsi dan ketahanan alat bangunan yang w pakai.
+- Tutorial belajar Codeigniter.
 - Vlog.
+- Javascript
+- CSS
+- HTML
+- Bootstrap
+- API
+- Ajax
+- JSON
