@@ -2,8 +2,8 @@ Rencana Conten Reza
 - Unboxin.
 - Fungsi dan ketahanan alat bangunan yang w pakai.
 - Tutorial belajar Codeigniter.
-- Vlog.
 - Javascript
+  * Angular
   * Vue
   * React
 - CSS
