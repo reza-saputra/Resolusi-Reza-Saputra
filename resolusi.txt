@@ -6,3 +6,4 @@ Resolusi Reza 2022
   * Angular
   * Vue
   * React
+- Memperdalam Centos 7
