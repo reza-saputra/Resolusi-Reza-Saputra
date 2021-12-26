@@ -2,10 +2,6 @@ Rencana Conten Reza
 - Unboxin.
 - Fungsi dan ketahanan alat bangunan yang w pakai.
 - Tutorial belajar Codeigniter.
-- Javascript
-  * Angular
-  * Vue
-  * React
 - CSS
 - HTML
 - Bootstrap
@@ -13,3 +9,12 @@ Rencana Conten Reza
 - Ajax
 - JSON
 - Tutorial belajar Laravel
+- Tutorial Git / GitHub
+- Tutorial Penggunaan Drone DJI Mini 2
+
+Hal yang harus dipelajari di 2022
+- Belajar membangun Mobile App dengan React Native
+- Javascript
+  * Angular
+  * Vue
+  * React
