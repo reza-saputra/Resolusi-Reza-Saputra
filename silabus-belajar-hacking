@@ -1,0 +1,142 @@
+Silabus Hacking yang harus dipelajari untuk menjadi : 
+- Computer Security & IT Security Awareness
+- Mengenal data & representasinya, hexdump pada file, ascii table, hexwrite
+- Network Fundamental
+- Dasar IP Address, Mac Address, pengenalan 7 layer osi, etc
+- FTP, SSH, Telnet, DNS, DHCP, Web Server, SMB, POP3, SMTP, MySQL Server, VNC, RDP
+- Subnetting (CIDR, perhitungan biner ke desimal, perhitungan subnneting, etc)
+- Routing (NAT)
+- Port Forwarding
+- DMZ (Demilitarized Zone)
+- VPN (Virtual Private Network)
+- Dasar Kriptografi
+- Mengenal encode / decode (base64), disertai prakteknya dengan python
+- Mengenal dasar enkripsi & dekripsi pada kriptografi simetris pada caesar (prakteknya dengan python), substitusi (enkripsi dari penyedia layanan di web dan contoh cracknya dari penyedia layanan di web online), enkripsi dan dekripsi dengan XOR (prakteknya dengan python)
+- Mengenal enkripsi pada kriptografi asimetris (public key & private key), disertai prakteknya dengan python
+- Mengenal fungsi hash disertai prakteknya untuk membangun hashnya dengan python dan cara crack nya dengan menggunakan wordlist
+- Mendeteksi jenis hash secara otomatis dan contoh melakukan cracking dari situs cracking hash
+- Contoh crack hash MD5 / SHA1 dengan Hashcat
+- Mengenal reverse engineering dengan contoh prakteknya (source code, compile, binary (executable), disassembly & mendapatkan password pada contoh program login windows dan linux)
+- Firewall
+- Port Knocking
+- Forwarding pada managed switch
+- Proxy
+- TOR Windows
+- TOR Linux (Advanced) ~ Hacking Server seperti FTP Server, SSH Server, dst dengan koneksi TOR
+- SSH Tunnel
+- Command prompt
+- Managemen user (Command prompt)
+- Pembelajaran Shell Bash
+- Repository
+- Recovery mode di linux
+- Setting IP Client di linux (Permanen & non permanen)
+- Menambah ip baru pada interface
+- Managemen user dan group di linux
+- File Security : chown, chgrp, chmod (numeric coding, letter coding)
+- SSH Server (user & admin)
+- Screen
+- SAMBA (read only, writeable, valid users)
+- SMB Client
+- Server Apache
+- Server Nginx Keamanan
+- Mematikan recovery mode pada GRUB
+- Firewall ufw
+- Blokir ip ke server dengan firewall ufw
+- Blokir semua ip client kecuali ip client tertentu pada port service tertentu (Kasusnya misal seperti website hanya bisa dibuka ip tertentu atau juga bisa misal untuk
+akses ssh hanya bisa diakses ip tertentu, tapi untuk web bisa diakses semua ip yang bisa terhubung) Pengawasan
+- Mengenali log-log server dan mengawasi client yang login
+- Instalasi Ubuntu Server 20.04.3 LTS
+- Install Apache Server & MySQL Server di Ubuntu Server 20.04.3 LTS
+- PHPMyadmin di Ubuntu Server 20.04.3 LTS
+- Instalasi Wordpress di Apache Server di Ubuntu Server 20.04.3 LTS
+- Setting virtualhost di Apache Server di Ubuntu Server 20.04.3 LTS
+- Install Nginx & MySQL Server di Ubuntu Server 20.04.3 LTS
+- Log Server pada Nginx di Ubuntu Server 20.04.3 LTS
+- Instalasi wordpress di Nginx di Ubuntu Server 20.04.3 LTS
+- Setting virtualhost di Nginx di Ubuntu Server 20.04.3 LTS
+- DNS Server di Ubuntu Server 20.04.3
+- Scanning jaringan
+- Tips dan trik untuk mengetahui Ip melalui nama komputer di kali linux, mengetahui ip dan mac di jaringan secara cepat di kali linux, dan sebagainya
+- Scanning IP, port, service, OS yang digunakan, dan sebagainya
+- CVE dan situs-situs penyedia exploit
+- Dasar Hacking (Step by step)
+- Hacking suatu Web Server dengan searchsploit / exploit-db (Step by step)
+- Shell (eksploitasi di shell seperti copy data)
+- Mengambil password-password seperti facebook, yahoo mail dan sebagainya yang disimpan pada browser seperti firefox (firefox baru) dan sebagainya, sampai FTP Server filezilla bisa diambil passwordnya melalui shell (post exploitation)
+- Hacking suatu Web Server yang terinstall di Windows 7 (Step by step)
+- Hacking suatu router dengan routersploit
+- Hacking suatu SSH Server dengan memanfaatkan situs mesin pencari (Step by step)
+- Hacking Apache Server 2.4.49 untuk mendapatkan akses shell (cgi-bin nyala)
+- Hacking suatu FTP Server di Windows 10 dengan memodifikasi shellcode (Dari X-code Premium Video)
+- Hacking suatu FTP Server dengan metasploit framework (Step by step)
+- Perintah-perintah metasploit dasar dan contoh encode pada payload saat eksploitasi
+- Backdoor pada target Windows (Tiap target masuk windows, attacker langsung mendapatkan akses)
+- Scanning bug dengan Nessus dan contoh eksploitasinya dengan metasploit
+- Hacking pada service SMB Windows XP SP3 berfirewall (Bypass firewall pada target Windows) (Step by step) untuk mendapatkan akses meterpreter / shell
+- Scanning dengan OpenVAS (Dari X-code Premium Video)
+- Hacking pada service SMB Windows Vista / Windows Server 2008 (Dari X-code Premium Video)
+- Hacking pada service SMB Windows 7 SP1 untuk mendapatkan akses shell / meterpreter - 32 bit
+- Hacking pada service SMB Windows 7 SP1 untuk mendapatkan akses shell / meterpreter - 32 bit dengan melihat camera netbook
+- Hacking pada service SMB Windows 7 SP1 untuk mendapatkan akses shell / meterpreter - 64 bit
+- Hacking pada service SMB Windows Server 2008 R2 Enterprise untuk mendapatkan akses shell
+- Hacking pada service SMB Windows 8.1 / 10 / 2012 R2 yang mengijinkan share folder tanpa password untuk mendapatkan akses shell (Bypass Windows Defender)
+- Hacking Mikrotik Router v6 pada service winbox (6.29 to 6.42) (Langsung mendapatkan password mikrotik melalui jaringan, bukan brute force)
+- Hacking SAMBA pada suatu target Ubuntu Server untuk mendapatkan akses shell linux (Target Samba dalam kondisi ada yang dishare foldernya tanpa password dengan hak akses writeable)
+- Hacking pada suatu target FTP server dengan platform linux (Bypass firewall pada target linux) Pengamanan
+- Teknik untuk meminimalisir serangan ke server dan pengamanannya secara umum
+- Teknik melakukan banned otomatis di linux pada ip target yang melakukan scanning menggunakan NMAP dengan option seperti misal -sV dan -A (Linux)
+- Scanning dan pembangunan komputer lab untuk fuzzing hingga pengembangan expoit
+- Mengenal Memory layout
+- Buffer Overflow
+- Fuzzer Development (Membuat fuzzer sendiri dengan Python)
+- EIP & SEH Handler
+- Pattern create & pattern offset
+- JMP ESP
+- Mengenal Bad Characte
+- Mengenal bahasa mesin, heksadesimal dan x86 assembler instruction set opcode table
+- Tabel kebenaran XOR
+- Shellcode Development untuk membuat CPU bekerja hingga 100% (Membuat dengan bahasa assembler dari awal)
+- Shellcode Development untuk remote (Membuat dengan bahasa assembler dari awal)
+- Penggunaan nasm dan objdump untuk shellcode yang dibuat
+- Cara penyusunan shellcode secara cepat
+- Proof of concept pada exploit yang dibuat
+- Shellcode generate dengan encode shikata_ga_nai
+- Tugas untuk membuat exploit remote buffer overflow pada suatu web server
+- Pembahasan tugas pembuatan exploit remote buffer overflow pada web server
+- SEH (Structured Exception Handling)
+- Latihan target program yang memiliki proteksi SEH
+- Cek proteksi SafeSEH / ASLR dan menghindarinya
+- POP POP RETN (Bypass SEH)
+- Mengenal Jump Short
+- Uji coba perbedaan module yang terproteksi dan yang tidak terproteksi EggHunter
+- Mengenal Egg Hunter
+- Implementasi Egg Hunter dengan shellcode DEP
+- Mengenal proteksi DEP (Data Execution Prevention)
+- Menghadapi mitigasi DEP dengan hasil generate ROP pada *.DLL
+- Membangun exploit untuk metasploit berdasarkan exploit python yang dibuat sebelumnya. Contoh Buffer overflow di linux
+- Gdb & belajar perintah-perintah GDB (list main, disas main)
+- Fuzzing dengan GDB (seg fault) & memeriksa alamat eip
+- PoC untuk menjalankan shellcode dari menghitung jumlah byte shellcode, nop dan jumlah alamat yang diinjeksikan
+- Menjalankan exploit buffer overflow di shell (Terminal bukan di gdb)
+- Implementasi shellcode bind shell linux
+- Scanning IP, port, service, OS dll
+- Denial of Service - Web Server. Contoh pada apache server, web dari OS mikrotik dan access point tp-link
+- Denial of Service SMBv1 - (SMB Windows XP, SMB Windows Server 2003) (Blue Screen)
+- Denial of Service SMBv2 - (SMB Windows Vista, SMB Windows Server 2008) (Blue Screen)
+- Denial of Service RDP (RDP Windows 7)
+- Denial of Service SMB Windows 7 (Blue Screen)
+- Serangan membuat CPU pada Windows 8 menjadi 100%
+- Denial of Service Windows 8.1 / 10 / 2012 R2 / 2016 pada SMB Service yang mengijinkan share folder tanpa password (Blue Screen)
+- Denial of Service SMB Windows 10 pada celah CVE2020-0796 (Blue screen)
+- Netcut
+- ARP Spoofing
+- Wireshark
+- MITM user & pass ip camera (Sniffing).
+- Hacking Server IP Camera untuk melihat isinya (MITM) - (Dari X-code Premium Video)
+- MITM user & pass router (sniffing) TP-Link.
+- Sniffing isi e-mail yang dikirim ke SMTP server dan sniffing username dan password POP3 - (Dari X-code Premium Video)
+
+
+
+
+
