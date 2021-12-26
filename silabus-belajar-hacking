@@ -81,3 +81,62 @@ akses ssh hanya bisa diakses ip tertentu, tapi untuk web bisa diakses semua ip y
 - Hacking pada service SMB Windows Server 2008 R2 Enterprise untuk mendapatkan akses shell
 - Hacking pada service SMB Windows 8.1 / 10 / 2012 R2 yang mengijinkan share folder tanpa password untuk mendapatkan akses shell (Bypass Windows Defender)
 - Hacking Mikrotik Router v6 pada service winbox (6.29 to 6.42) (Langsung mendapatkan password mikrotik melalui jaringan, bukan brute force)
+- Hacking SAMBA pada suatu target Ubuntu Server untuk mendapatkan akses shell linux (Target Samba dalam kondisi ada yang dishare foldernya tanpa password dengan hak akses writeable)
+- Hacking pada suatu target FTP server dengan platform linux (Bypass firewall pada target linux) Pengamanan
+- Teknik untuk meminimalisir serangan ke server dan pengamanannya secara umum
+- Teknik melakukan banned otomatis di linux pada ip target yang melakukan scanning menggunakan NMAP dengan option seperti misal -sV dan -A (Linux)
+- Scanning dan pembangunan komputer lab untuk fuzzing hingga pengembangan expoit
+- Mengenal Memory layout
+- Buffer Overflow
+- Fuzzer Development (Membuat fuzzer sendiri dengan Python)
+- EIP & SEH Handler
+- Pattern create & pattern offset
+- JMP ESP
+- Mengenal Bad Characte
+- Mengenal bahasa mesin, heksadesimal dan x86 assembler instruction set opcode table
+- Tabel kebenaran XOR
+- Shellcode Development untuk membuat CPU bekerja hingga 100% (Membuat dengan bahasa assembler dari awal)
+- Shellcode Development untuk remote (Membuat dengan bahasa assembler dari awal)
+- Penggunaan nasm dan objdump untuk shellcode yang dibuat
+- Cara penyusunan shellcode secara cepat
+- Proof of concept pada exploit yang dibuat
+- Shellcode generate dengan encode shikata_ga_nai
+- Tugas untuk membuat exploit remote buffer overflow pada suatu web server
+- Pembahasan tugas pembuatan exploit remote buffer overflow pada web server
+- SEH (Structured Exception Handling)
+- Latihan target program yang memiliki proteksi SEH
+- Cek proteksi SafeSEH / ASLR dan menghindarinya
+- POP POP RETN (Bypass SEH)
+- Mengenal Jump Short
+- Uji coba perbedaan module yang terproteksi dan yang tidak terproteksi EggHunter
+- Mengenal Egg Hunter
+- Implementasi Egg Hunter dengan shellcode DEP
+- Mengenal proteksi DEP (Data Execution Prevention)
+- Menghadapi mitigasi DEP dengan hasil generate ROP pada *.DLL
+- Membangun exploit untuk metasploit berdasarkan exploit python yang dibuat sebelumnya. Contoh Buffer overflow di linux
+- Gdb & belajar perintah-perintah GDB (list main, disas main)
+- Fuzzing dengan GDB (seg fault) & memeriksa alamat eip
+- PoC untuk menjalankan shellcode dari menghitung jumlah byte shellcode, nop dan jumlah alamat yang diinjeksikan
+- Menjalankan exploit buffer overflow di shell (Terminal bukan di gdb)
+- Implementasi shellcode bind shell linux
+- Scanning IP, port, service, OS dll
+- Denial of Service - Web Server. Contoh pada apache server, web dari OS mikrotik dan access point tp-link
+- Denial of Service SMBv1 - (SMB Windows XP, SMB Windows Server 2003) (Blue Screen)
+- Denial of Service SMBv2 - (SMB Windows Vista, SMB Windows Server 2008) (Blue Screen)
+- Denial of Service RDP (RDP Windows 7)
+- Denial of Service SMB Windows 7 (Blue Screen)
+- Serangan membuat CPU pada Windows 8 menjadi 100%
+- Denial of Service Windows 8.1 / 10 / 2012 R2 / 2016 pada SMB Service yang mengijinkan share folder tanpa password (Blue Screen)
+- Denial of Service SMB Windows 10 pada celah CVE2020-0796 (Blue screen)
+- Netcut
+- ARP Spoofing
+- Wireshark
+- MITM user & pass ip camera (Sniffing).
+- Hacking Server IP Camera untuk melihat isinya (MITM) - (Dari X-code Premium Video)
+- MITM user & pass router (sniffing) TP-Link.
+- Sniffing isi e-mail yang dikirim ke SMTP server dan sniffing username dan password POP3 - (Dari X-code Premium Video)
+
+
+
+
+
