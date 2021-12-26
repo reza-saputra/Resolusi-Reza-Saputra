@@ -135,6 +135,13 @@ akses ssh hanya bisa diakses ip tertentu, tapi untuk web bisa diakses semua ip y
 - Hacking Server IP Camera untuk melihat isinya (MITM) - (Dari X-code Premium Video)
 - MITM user & pass router (sniffing) TP-Link.
 - Sniffing isi e-mail yang dikirim ke SMTP server dan sniffing username dan password POP3 - (Dari X-code Premium Video)
+- Sniffing hash samba di jaringan dan melakukan crack (Dari X-code Premium Video)
+- Sniffing password dengan SSLStrip
+- Eksploitasi heartbleed untuk membaca memory dari server yang diproteksi oleh OpenSSL (Bisa mengambil password pengguna pada web dan sebagainya) Pengamanan
+- Mengatasi serangan Netcut di Windows (Pengujian sebelum diamankan dan setelah diamankan)
+- Pengamanan di linux dari serangan netcut dan serangan sniffing password dengan ARP Spoofing (Pengujian sebelum diamankan dan setelah diamankan)
+- Cookie stealing dengan MITM (Cain + Wireshark) untuk bypass login web tanpa memasukkan password (Session Hijacking)
+- DNS Spoofing
 
 
 
