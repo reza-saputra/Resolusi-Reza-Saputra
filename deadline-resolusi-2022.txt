@@ -1,4 +1,7 @@
 Deadline 2022 :
     1. Membuat aplikasi mobile Sip Yakin Asik -> Maret 2022 
     2. Membuat aplikasi mobile e-Budgeting -> Mei 2022
-    3. Sudah lancar B. Inggris
+    3. Sudah lancar B. Inggris Mei 2022
+    4. Sudah Expert Centos Mei 2022
+    5. Sudah membuat Projek dengan Python Agustus 2022
+    6. Sudah Bisa Jaringan (Instalasi) November 2022
