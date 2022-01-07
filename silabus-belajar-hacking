@@ -142,7 +142,7 @@ akses ssh hanya bisa diakses ip tertentu, tapi untuk web bisa diakses semua ip y
 - Pengamanan di linux dari serangan netcut dan serangan sniffing password dengan ARP Spoofing (Pengujian sebelum diamankan dan setelah diamankan)
 - Cookie stealing dengan MITM (Cain + Wireshark) untuk bypass login web tanpa memasukkan password (Session Hijacking)
 - DNS Spoofing
-
+- Membuat fake login sendiri
 
 
 
